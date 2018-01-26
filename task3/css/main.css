@@ -1,3 +1,4 @@
+html {font-size: 625%; /*100 ÷ 16 × 100% = 625%*/}
 body {
     margin: 0 auto;
     background-color: #68cdd5;
@@ -14,7 +15,7 @@ body {
 .text {
     margin: 0 auto;
     color: #fff;
-    font-size: 20px;
+    font-size: 0.2rem;
     width: 75%;
     padding-top: 120px;
 }
@@ -29,7 +30,9 @@ body {
     right: 20%;
 }
 .text1 {
-    margin-top: 5px;
+    margin-top: -20px;
+    margin-bottom: 0;
     text-align: center;
+    font-size: 0.16rem;
     color: #fff;
 }
