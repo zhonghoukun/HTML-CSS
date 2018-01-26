@@ -1,0 +1,35 @@
+body {
+    margin: 0 auto;
+    background-color: #68cdd5;
+}
+.retreat {
+    position: absolute;
+    top: 20px;
+    left: 35px;
+}
+.logo {
+    text-align: center;
+    padding-top: 116px;
+}
+.text {
+    margin: 0 auto;
+    color: #fff;
+    font-size: 20px;
+    width: 75%;
+    padding-top: 120px;
+}
+.button-1 {
+    position: absolute;
+    top: 680px;
+    left: 20%;
+}
+.button-2 {
+    position: absolute;
+    top: 680px;
+    right: 20%;
+}
+.text1 {
+    margin-top: 5px;
+    text-align: center;
+    color: #fff;
+}
